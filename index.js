@@ -1,7 +1,7 @@
 const Discord=require('discord.js');
 const YTDL= require("ytdl-core");
 const bot= new Discord.Client();
-const token='MzI4MjIyNTA1MTQxNTM0NzIz.DDAyJA.uBCsDTfTcCfmOYL4IZdAsYVINCo';
+const token='your token here';
  var count=0;
 
 
